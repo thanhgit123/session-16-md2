@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userName": "json-server",
+      "email": "typicode",
+      "password": "123",
+      "cart": []
+    }
+    
+  ]
+}
